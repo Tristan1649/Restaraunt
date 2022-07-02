@@ -1,2 +1,2 @@
 release: python manage.py migrate
-wed: gunicorn restaraunt.wsgi
+web: gunicorn restaraunt.wsgi
